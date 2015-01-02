@@ -1,0 +1,7 @@
+require "faraday"
+require "faraday_middleware"
+require "faraday/response/json"
+require "faraday/response/tabelog"
+require "tabelog/parse/client"
+require "tabelog/parse/parser"
+require "tabelog/parse/Restaurant"
