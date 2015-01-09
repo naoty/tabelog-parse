@@ -1,5 +1,4 @@
 require "faraday"
-require "faraday_middleware"
 require "faraday/response/json"
 require "faraday/response/tabelog"
 require "tabelog/parse/client"
